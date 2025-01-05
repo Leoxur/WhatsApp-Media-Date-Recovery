@@ -116,6 +116,7 @@ Questo progetto include due script Python progettati per aggiornare i metadati e
 
 ## Esempi Output:
 
+   ```plaintext
 File copiato: whatsapp-images-source/IMG-20180607-WA0006d.jpg -> whatsapp-images-dest/IMG-20180607-WA0006d.jpg
 Metadati EXIF e timestamp di sistema aggiornati per: IMG-20180607-WA0006d.jpg
 File copiato: whatsapp-images-source/adIMG-20180705-WA0011.jpg -> whatsapp-images-dest/adIMG-20180705-WA0011.jpg
@@ -135,7 +136,7 @@ Nome file non valido, ignorato: VID-20230309df-WA0007.mp4
 Nome file non valido, ignorato: VID-sdf20230309-WA0007.mp4
 Nome file non valido, ignorato: VIDfd-20230309-WA0007.mp4
 Nome file non valido, ignorato: fdVID-20230309-WA0007.mp4
-
+   ```
 
 ---
 
